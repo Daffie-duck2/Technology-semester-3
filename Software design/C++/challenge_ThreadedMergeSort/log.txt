@@ -1,0 +1,2 @@
+TRACE LoadFile << filename = data/mediumlist.txt
+TRACE LoadFile >> read 13542 words from data/mediumlist.txt
